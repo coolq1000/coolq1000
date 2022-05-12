@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">About Me</h1>
+<div align="center">
+  <strong>Shaders, low-level programming & reverse engineering</strong>
+</div>
+<div align="center">
+  A polyglot programmer who enjoys writing emulators, shaders and more!
+</div>
+<div align="center">
+  <h3>
+    <a href="https://taigaclaw.com">
+      Website
+    </a>
+  </h3>
+</div>
 
-<!--
-**coolq1000/coolq1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://taigaclaw.com)
 
-Here are some ideas to get you started:
+## Hobbies
+ - 🎮 gaming (overwatch, valorant)
+ - 📗 learning new concepts
+ - 📝 writing code
+ - 📺 watching youtube/twitch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+[![coolq1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolq1000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
